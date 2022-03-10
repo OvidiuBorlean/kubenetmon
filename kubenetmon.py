@@ -104,10 +104,10 @@ if __name__ == "__main__":
 
     
      # Update the customer ID to your Log Analytics workspace ID
-    customer_id = '898c0678-d4c2-4dde-a188-5bf99238df6e'
+    customer_id = ''
 
     # For the shared key, use either the primary or the secondary Connected Sources client authentication key
-    shared_key = "QOH5x1SxQXAQF6W1b3xiYqRg4QW2JGrkeu0ZRWYXIsonOxClo2rI0t/ewyUaBNJQMeb77qn9wWBvwVntyyYYHw=="
+    shared_key = ""
 
     # The log type is the name of the event that is being submitted
     log_type = 'KubeNetMonitor'
